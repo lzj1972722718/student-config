@@ -30,7 +30,7 @@ mybatis-plus:
       map-underscore-to-camel-case: true      #开启驼峰映射规则
 --- #8005端口测试环境
 server:
-  port: 8000
+  port: 8005
   servlet:
     context-path: /
 spring:
